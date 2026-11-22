@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Nexteo</title>
+    <item>
+      <title>Nexteo 0.1.0</title>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <nexteoClientUpdateProof>eyJ2ZXJzaW9uIjogMSwgImJ1aWxkIjogMTYsICJhcHBDREhhc2giOiAiYTM2MWFlYTBiODI4ZjIxODBjODRiMjgwMmJiZDY4YzM2YjBmYTYyYSIsICJjbGlDREhhc2giOiAiZmYwNTlmNzJjZTJmM2Q0ODJhYzk2NmFjOWEwYjg5ZWE3NGJiZWRkOSIsICJzaWduYXR1cmUiOiAiWVMwR0dBZ1g1b0Vhb00wUmNueldCTzh2aXo5SW5hQUNzVWdyU09MNEFjb012b3E2ZTZjc2FVSXpUSVFpcHY3dEpCNjM2aFJ2elBOaytQeXMxU2J0REE9PSJ9</nexteoClientUpdateProof>
+      <enclosure url="https://github.com/zhizhi2021/NexteoUpdate/releases/download/v0.1.0-16/Nexteo-macOS-arm64.zip" length="10320373" type="application/octet-stream" sparkle:edSignature="5shav/dYX4miWDLsy+Itwi3RD1xoJsp1uBBHsDF+r35G2c/yiQQwW6phKN5KT9n38XdXY9rOAKyxbrTaA5vxCQ==" sparkle:installationType="application"></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: /YaZcFh4/yrp0ysAkMqJ1/TrZMrj/JumqZ6ocxtjbJQ0bBiyqPFhugQGqpCZRvEtJGxlzGqGNxIRwDWoBMiVCw==
+length: 1467
+-->
