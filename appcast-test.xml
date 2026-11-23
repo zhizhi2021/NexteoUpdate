@@ -5,15 +5,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Nexteo</title>
     <item>
       <title>Nexteo 0.1.0</title>
-      <sparkle:version>16</sparkle:version>
+      <sparkle:version>20</sparkle:version>
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <nexteoClientUpdateProof>eyJ2ZXJzaW9uIjogMSwgImJ1aWxkIjogMTYsICJhcHBDREhhc2giOiAiYTM2MWFlYTBiODI4ZjIxODBjODRiMjgwMmJiZDY4YzM2YjBmYTYyYSIsICJjbGlDREhhc2giOiAiZmYwNTlmNzJjZTJmM2Q0ODJhYzk2NmFjOWEwYjg5ZWE3NGJiZWRkOSIsICJzaWduYXR1cmUiOiAiWVMwR0dBZ1g1b0Vhb00wUmNueldCTzh2aXo5SW5hQUNzVWdyU09MNEFjb012b3E2ZTZjc2FVSXpUSVFpcHY3dEpCNjM2aFJ2elBOaytQeXMxU2J0REE9PSJ9</nexteoClientUpdateProof>
-      <enclosure url="https://github.com/zhizhi2021/NexteoUpdate/releases/download/v0.1.0-16/Nexteo-macOS-arm64.zip" length="10320373" type="application/octet-stream" sparkle:edSignature="5shav/dYX4miWDLsy+Itwi3RD1xoJsp1uBBHsDF+r35G2c/yiQQwW6phKN5KT9n38XdXY9rOAKyxbrTaA5vxCQ==" sparkle:installationType="application"></enclosure>
+      <nexteoClientUpdateProof>eyJ2ZXJzaW9uIjogMSwgImJ1aWxkIjogMjAsICJhcHBDREhhc2giOiAiNzJjMjBkNWI0ZTk3MzI1OGMxMjE2MWE3MGMyODkwNTIxMjIwNzNkMSIsICJjbGlDREhhc2giOiAiMWE2NTE1NDg2ZWRiMmRiZTYwZTk5MzczN2NlYzQ0NzcwZTQyNTRiZiIsICJzaWduYXR1cmUiOiAiRklvU3M1RnZHbGRxOEFkS3UydkVzN09DYk05dm1CYmJRbFJQelpqYlB3OG51KzVxN2duZzc5cFBOSlNkYTNEK29qNU5ER05oT0s4dEtnSDlwclFWQ3c9PSJ9</nexteoClientUpdateProof>
+      <enclosure url="https://github.com/zhizhi2021/NexteoUpdate/releases/download/v0.1.0-20/Nexteo-macOS-arm64.zip" length="10320392" type="application/octet-stream" sparkle:edSignature="d1Iq19uqj2ovQrkP30BPdoWEcEtcWgIjg5sPvTMzkHiY8XLGkELLj33KbG5nSBwsHMYDufPVLgeaHGUebhsKBg==" sparkle:installationType="application"></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: /YaZcFh4/yrp0ysAkMqJ1/TrZMrj/JumqZ6ocxtjbJQ0bBiyqPFhugQGqpCZRvEtJGxlzGqGNxIRwDWoBMiVCw==
+edSignature: vh49nzyqBXsN1zQGU3P/I0JHivUCkX7IVdk+lslwEYuCXS88weMwEeWbOazlm4GAY+iM+9DSfCXz/YH5sRt5Bw==
 length: 1467
 -->
